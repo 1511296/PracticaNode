@@ -1,0 +1,25 @@
+{
+  "name": "practicanode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1511296/PracticaNode.git"
+  },
+  "keywords": [
+    "123456789"
+  ],
+  "author": "simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1511296/PracticaNode/issues"
+  },
+  "homepage": "https://github.com/1511296/PracticaNode#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
